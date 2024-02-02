@@ -7,6 +7,6 @@
 # to add -'git add .'
 # to commit -'git commit -m ' " kai bi lakhi sakay"
 # to push -'git push origin main'
-
+hetul
 
 FOr opning terminal - ctrl+ `

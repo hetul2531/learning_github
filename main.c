@@ -3,7 +3,7 @@
 
 void main(){
     
-     printf("we are learning github")
+     printf("we are learning hello github")
      scanf("%d", main);
-     
+
 }
